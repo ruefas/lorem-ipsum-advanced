@@ -1,5 +1,3 @@
-BLABLUBB
-
 # Douglas Adams on the Idea to A Hitchhikers Guide to the Galaxy:
 
 ## English
